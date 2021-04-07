@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Smartphone Poco X3-64GB - 6GB",
+    "foto": "assets/imagens/Smartphone Poco X3-64GB - 6GB.jpg",
+    "preco": "R$ 2.000",
+    "status": "disponivel"
+  },
+  {
+    "titulo": "Smartphone Xiaomi Redmi 9A 2 - 32GB",
+    "foto": "assets/imagens/Smartphone Xiaomi Redmi 9A 2 - 32GB -.jpg",
+    "preco": "R$ 1.000",
+    "status": "disponivel"
+  },
+  {
+    "titulo": "Smartphone Xiaomi Redmi Note 9S - 4GB + 64GB",
+    "foto": "assets/imagens/Smartphone Xiaomi Redmi Note 9S - 4GB + 64GB.jpg",
+    "preco": "R$ 1.500",
+    "status": "Indisponivel"
+  }
+]
