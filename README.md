@@ -1,5 +1,5 @@
 # App-Loja-Tecnologica
-Aplicativo Mobile de uma loja fictícia chamada Tecnológica. 
+Aplicativo Mobile para android de uma loja fictícia chamada Tecnológica. 
 
 O aplicativo foi feito em Flutter, poderá ver o código clicando <a href="https://github.com/pvictor1206/App-Loja-Tecnologica/tree/main/lib">AQUI</a>
 
