@@ -1,7 +1,7 @@
 # App-Loja-Tecnologica
 Aplicativo Mobile de uma loja fictícia chamada Tecnológica. 
 
-O aplicativo foi feito em flutter, o código estará visível clicando <a href="https://github.com/pvictor1206/App-Loja-Tecnologica/tree/main/lib">AQUI</a>
+O aplicativo foi feito em Flutter, o código estará visível clicando <a href="https://github.com/pvictor1206/App-Loja-Tecnologica/tree/main/lib">AQUI</a>
 
 Ao abrir o aplicativo, irá aparecer uma tela com os seguintes Cards. <br>
 <img src="https://github.com/pvictor1206/App-Loja-Tecnologica/blob/main/imagens/img01.jpeg" width="200"> <br>
